@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <title>Reproach</title>
+      <nav>
+        <ul class="nav-links">
+          <li><a class="nav-link" href="index.html">Home</a></li>
+          <li><a class="nav-link" href="reproach.html">Reproach</a></li>
+          <li><a class="nav-link" href="satisfied.html">Satisfied</a></li>
+          <li><a class="nav-link" href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+  <div class="onepic intro-text introduction">
+    <img class="banner-image">
+	<h2 class="texttitle">Reproach</h2>
+  </div>
+
+	<div class="unopoem">
+	<main>
+	  <section class="poemtext">
+		<div class="introduction">
+		  <div class="intro-text">
+			<p2>
+      "Across an ocean of pain, we slump idle
+      </br>
+      Mouths empty where our own hunger eats us
+      </br>
+      Feces belittle our dreams of survival
+      </br>
+      Quiet we lay and wait till death greets us
+
+      </br>Tears surmount the salt in the Atlantic
+      </br>Prayers mean nothing to deaf Gods above
+      </br>I recall, the weak among us vanished
+      </br>The strong lived, but pain we are never free of
+
+      </br>The land beyond was a hell of its own
+      </br>Now split from our kin and owned by white skin
+      </br>As I write, bondage is captured on phones
+      </br>How much longer will we yield to their sin?
+
+      </br>Teach us what it means to have peace of mind
+      </br>Remind us what love is; patient and kind"
+    </p2>
+		  </div>
+		</div>
+	  </section>
+	</main>
+	</div>
+
+  </body>
+
+
+<footer>
+  <p style="text-align:left;">© 2020 Lorin
+  <span style="float:center;">Contact: jeremy.b.lorin@gmail.com</span>
+  <span style="float:right;">Address: Kretingos g. 36, Klaipėda 92307</span>
+  </p>
+</footer>
+
+</html>
